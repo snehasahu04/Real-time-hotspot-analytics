@@ -1,27 +1,3 @@
-# from app.collectors.connection_collector import *
-# from app.kafka.producer import *
-# from app.config import *
-
-# devices = get_connected_devices()
-
-# print(devices)
-
-# for device in devices:
-
-#     send_event(
-#         TOPIC_CONNECTION,
-#         device
-#     )
-
-#     print("Event sent:", device)
-
-
-
-
-
-
-
-
 import os
 import sys
 import time
