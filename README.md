@@ -1,7 +1,5 @@
 # Real-time-hotspot-analytics
 
-# Real-time Hotspot Analytics
-
 Real-time Hotspot Analytics is a Python pipeline for monitoring devices and traffic on a local Windows hotspot/network. It detects device connection changes, tracks bandwidth usage, observes DNS activity, flags high-bandwidth anomalies, and publishes events to Kafka.
 
 ## Features
